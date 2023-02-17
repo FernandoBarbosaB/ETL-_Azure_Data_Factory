@@ -71,6 +71,8 @@ Onde inicialmente ocorre um truncate table na tabela Prices para não ocorrer du
 
 ![image](https://user-images.githubusercontent.com/116772002/219801342-6cbf0cfd-ea6f-4986-acef-509afba46213.png)
 
+![image](https://user-images.githubusercontent.com/116772002/219801940-062ed68b-5e05-4e39-bb23-5ca40e85bd79.png)
+
 
 ## 🛠️ Construído com
 
