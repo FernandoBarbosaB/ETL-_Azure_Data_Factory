@@ -76,7 +76,7 @@ Onde inicialmente ocorre um truncate table na tabela Prices para não ocorrer du
 
 * [Data Factory](https://azure.microsoft.com/pt-br/products/data-factory/) - Ferramenta de ETL Microsoft Azure
 * [Azure SQL](https://azure.microsoft.com/pt-br/products/azure-sql/database) - Banco de dados SQL do Azure
-* [Power Bi] (https://powerbi.microsoft.com/pt-br/) - Ferramenta de Visualização de Dados
+* [Power Bi](https://powerbi.microsoft.com/pt-br/) - Ferramenta de Visualização de Dados
 * [API](https://www.alphavantage.com/) - API para extração das informações financeiras
 
 
