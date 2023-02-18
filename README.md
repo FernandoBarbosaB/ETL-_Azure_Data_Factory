@@ -56,6 +56,7 @@ Tabela Final Prices
 |       high      |   float  |     preço max      |
 |       low       |   float  |      preço min     |
 |      close      |   float  |     preço final    |
+|      ticker     |  varchar |     nome empresa   |
 
 
 
